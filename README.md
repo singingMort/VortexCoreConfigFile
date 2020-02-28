@@ -1,0 +1,2 @@
+# VortexCoreConfigFile
+votex社製のcoreの設定ファイルです
